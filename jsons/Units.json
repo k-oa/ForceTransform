@@ -1,0 +1,21 @@
+[
+    {
+		"name": "Warrior",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 8,
+		"cost": 40,
+		"obsoleteTech": "Metal Casting",
+		"upgradesTo": "Swordsman",
+		"uniques" : [
+            "May upgrade to [Spearman] through ruins-like effects",
+            
+            "[This Unit] gains the [Transformation] promotion <upon entering a [Farm] tile>"
+        
+        ],
+		"attackSound": "nonmetalhit",
+        "civilopediaText": [
+			{"text": "This is your basic, club-swinging fighter."}
+		]
+	}
+]
