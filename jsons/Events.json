@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Choose a Defense Battery",
+        "text": "Choose a Defense Battery!",
+        "choices": [
+            {
+                "text" : "[Giant Death Robot]",
+                "triggeredUniques": ["Free [Giant Death Robot] appears"]
+            },
+            {
+                "text" : "[Great Artist]",
+                "triggeredUniques": ["Free [Great Artist] appears"]
+            },
+            {
+                "text" : "[Tank]",
+                "triggeredUniques": ["Free [Tank] appears"]
+            }
+        ]
+    }
+]

@@ -3,7 +3,7 @@
 		"name": "Transformation",
 		"uniques": [
             "[This Unit] takes [100] damage",
-            "Free [Giant Death Robot] appears"
+            "Triggers a [Choose a Defense Battery] event"
         ]
     }
 ]
